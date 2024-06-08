@@ -88,7 +88,7 @@ admin_38 : "» ᴀᴅᴅᴇᴅ 1 ᴜᴘᴠᴏᴛᴇ."
 admin_39 : "» ʀᴇᴍᴏᴠᴇᴅ 1 ᴜᴘᴠᴏᴛᴇ."
 admin_40 : "ᴜᴘᴠᴏᴛᴇᴅ."
 
-start_1 : "{0} CANLI BEBEK.\n\n✫ ÇALIŞMA SÜRESİ : {1}"
+start_1 : "{0}🍁Rönesans Plak.\n\n✫ ÇALIŞMA SÜRESİ : {1}"
 start_2 : "Hey Hoşgeldin Adamım {0},\n\n๏ Ben {1} !\n🇹🇷 BEN RUHUNUZU DİNLENDİREBİLECEĞİNİZ MÜZİK BOTUNUZUM .\n\n🇹🇷 Desteklenen Platformlar: Youtube, Spotify, Resso, Apple Music ve Saoundcloud.\n──────────────────\n🇹🇷 Keyifli dinlemeler🤭 jül sezar ."
 
 start_3 : "ʜᴇʏ {0},\nᴛʜɪs ɪs {1}\n\nᴛʜᴀɴᴋs ғᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ ɪɴ {2}, {3} ᴄᴀɴ ɴᴏᴡ ᴩʟᴀʏ sᴏɴɢs ɪɴ ᴛʜɪs ᴄʜᴀᴛ."
@@ -179,8 +179,8 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "➲ <b>📡 YAYINLANMAYA BAŞLANDI |</b>\n\n<b>🎬 BAŞLIK :</b> <a href={0}>{1}</a>\n<b>🔋 SÜRE :</b> {2}🪫 DAKİKA\n<b>📜 TALEP EDENLER :</b> {3}"
-stream_2 : "➲ <b>📡 YAYINLANMAYA BAŞLANDI |</b>\n\n<b>🎬 AKIŞ TÜRÜ :</b> CANLI YAYIN [ᴜʀʟ]\n<b>📜 TALEP EDENLER :</b> {0}"
+stream_1 : "➲ <b>📽Yayın Başladı|</b>\n\n<b>📼 Sanatçı:</b> <a href={0}>{1}</a>\n<b>🌔Süre:</b> {2}🌓Dakika\n<b>🌺Dertlenen:</b> {3}"
+stream_2 : "➲ <b>📽Yayın Başladı|</b>\n\n<b>📼Akış Türü:</b> Canlı Müzik[Link]\n<b>🌺Dertlenen:</b> {0}"
 
 
 CLOSE_BUTTON  : "✯ KAPAT ✯"
