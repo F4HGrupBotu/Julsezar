@@ -41,11 +41,11 @@ auth_6 : "» ғᴇᴛᴄʜɪɴɢ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴜsᴇʀs ʟɪsᴛ
 auth_7 : "» ʟɪsᴛ ᴏғ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴜsᴇʀs ɪɴ {0} :\n\n"
 auth_8 : "<b>↬ ᴀᴅᴅᴇᴅ ʙʏ :</b>"
 
-reload_1 : "» ʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ʀᴇғʀᴇsʜ ᴀᴅᴍɪɴ ᴄᴀᴄʜᴇ ᴏɴᴄᴇ ɪɴ 3 ᴍɪɴᴜᴛᴇs.\n\nᴘʟᴇᴀsᴇ ᴛʀʏ ᴀғᴛᴇʀ {0}."
-reload_2 : "» ᴀᴅᴍɪɴ ᴄᴀᴄʜᴇ ʀᴇғʀᴇsʜᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ."
-reload_3 : "» ғᴀɪʟᴇᴅ ᴛᴏ ʀᴇʟᴏᴀᴅ ᴀᴅᴍɪɴ ᴄᴀᴄʜᴇ, ᴍᴀᴋᴇ sᴜʀᴇ ᴛʜᴀᴛ ᴛʜᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ᴄʜᴀᴛ."
-reload_4 : "» ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...\n\nʀᴇʙᴏᴏᴛɪɴɢ {0} ғᴏʀ ʏᴏᴜʀ ᴄʜᴀᴛ."
-reload_5 : "sᴜᴄᴄᴇssғᴜʟʟʏ ʀᴇʙᴏᴏᴛᴇᴅ {0} ғᴏʀ ʏᴏᴜʀ ᴄʜᴀᴛ.\n\nsᴛᴀʀᴛ ᴘʟᴀʏɪɴɢ ᴀɢᴀɪɴ..."
+reload_1 : "» 😎Yönetici Önbelleğini Yalnızca 3 Dakikada Bir YENİLEYEBİLİRSİNİZ.\n\n🤭Sonra Bidaha Denersin. {0}."
+reload_2 : "» 🤭Yönetici Önbelleği Başarıyla Yenilendi."
+reload_3 : "» Yönetici Önbelleği Yeniden Yüklenemedi , Sohbetinizde Botun Yönetici Olduğundan Emin Ol🫣."
+reload_4 : "» 🤩Lütfen Bekleyin açıyorum...\n\n🙄Yeniden Başlatılıyor. {0} Sohbetiniz İçin."
+reload_5 : "💪Başarıyla Yeniden Başlatıldı. {0} Sohbetiniz İçin.\n\nTekrar Oynatmaya Başla..."
 
 admin_1 : "» ᴅɪᴅ ʏᴏᴜ ʀᴇᴍᴇᴍʙᴇʀ ᴛʜᴀᴛ ʏᴏᴜ'ᴠᴇ ʀᴇsᴜᴍᴇᴅ ᴛʜᴇ sᴛʀᴇᴀᴍ ?"
 admin_2 : "➻ sᴛʀᴇᴀᴍ ᴘᴀᴜsᴇᴅ 🎄\n│ \n└ʙʏ : {0} 🥀"
